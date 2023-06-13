@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.csvreader.assesmen.CSVServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.175 s <<< FAILURE! - in com.csvreader.assesmen.CSVServiceImplTest
+testProcessCSVFile  Time elapsed: 0.173 s  <<< ERROR!
+com.csvreader.assesmen.exception.OrderException: Invalid phone number: email
+	at com.csvreader.assesmen.CSVServiceImplTest.testProcessCSVFile(CSVServiceImplTest.java:36)
+
